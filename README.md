@@ -5,20 +5,13 @@
 - 컨텐츠들은 리드미에 2주에 한번씩 회차별로 업로드 예정
 - 이슈에 각 컨텐츠에 대한 피드백을 살펴볼 수 있습니다.
 
-
-
-
-
 자세한 내용은 [위키](https://github.com/codesquad2023-fe-study/Coggle/wiki)에서 확인 가능합니다!
-
-
-
 
 ## 멤버 🌿
 
-| ![포코](https://avatars.githubusercontent.com/u/101160636?v=4) | ![릴리](https://avatars.githubusercontent.com/u/88878874?v=4) | ![시저](https://avatars.githubusercontent.com/u/76683390?v=4) | ![워터](https://avatars.githubusercontent.com/u/104904719?v=4) | ![다온](https://avatars.githubusercontent.com/u/115215178?v=4) | ![아켄](https://avatars.githubusercontent.com/u/96980857?v=4) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|            [**포코**](https://github.com/poco111)            |            [**릴리**](https://github.com/ahnlook)            |          [**시저**](https://github.com/caesar1030)           |            [**워터**](https://github.com/yesolyo)            |           [**다온**](https://github.com/saseungg)            |           [**아켄**](https://github.com/aken-you)            |
+| ![포코](https://avatars.githubusercontent.com/u/101160636?v=4) | ![릴리](https://avatars.githubusercontent.com/u/88878874?v=4) | ![시저](https://avatars.githubusercontent.com/u/76683390?v=4) | ![워터](https://avatars.githubusercontent.com/u/104904719?v=4) | ![다온](https://avatars.githubusercontent.com/u/115215178?v=4) | ![아켄](https://avatars.githubusercontent.com/u/96980857?v=4) | ![스눕](https://avatars.githubusercontent.com/u/96381221?v=4) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |
+|            [**포코**](https://github.com/poco111)            |            [**릴리**](https://github.com/ahnlook)            |          [**시저**](https://github.com/caesar1030)           |            [**워터**](https://github.com/yesolyo)            |           [**다온**](https://github.com/saseungg)            |           [**아켄**](https://github.com/aken-you)            |[**스눕**](https://github.com/realsnoopso)            |
 
 <br />
 <br />
