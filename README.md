@@ -9,9 +9,12 @@
 
 ## 멤버 🌿
 
-| ![포코](https://avatars.githubusercontent.com/u/101160636?v=4) | ![릴리](https://avatars.githubusercontent.com/u/88878874?v=4) | ![시저](https://avatars.githubusercontent.com/u/76683390?v=4) | ![워터](https://avatars.githubusercontent.com/u/104904719?v=4) | ![다온](https://avatars.githubusercontent.com/u/115215178?v=4) | ![아켄](https://avatars.githubusercontent.com/u/96980857?v=4) | ![스눕](https://avatars.githubusercontent.com/u/96381221?v=4) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |:----------------------------------------------------------: |
-|            [**포코**](https://github.com/poco111)            |            [**릴리**](https://github.com/ahnlook)            |          [**시저**](https://github.com/caesar1030)           |            [**워터**](https://github.com/yesolyo)            |           [**다온**](https://github.com/saseungg)            |           [**아켄**](https://github.com/aken-you)            |[**스눕**](https://github.com/realsnoopso)            |
+| <img src="https://avatars.githubusercontent.com/u/101160636?v=4" width="120" alt="포코"> | <img src="https://avatars.githubusercontent.com/u/88878874?v=4" width="120" alt="릴리"> | <img src="https://avatars.githubusercontent.com/u/76683390?v=4" width="120" alt="시저"> | <img src="https://avatars.githubusercontent.com/u/104904719?v=4" width="120" alt="워터"> | <img src="https://avatars.githubusercontent.com/u/115215178?v=4" width="120" alt="다온"> | <img src="https://avatars.githubusercontent.com/u/96980857?v=4" width="120" alt="아켄"> | <img src="https://avatars.githubusercontent.com/u/96381221?v=4" width="120" alt="스눕"> |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [**포코**](https://github.com/poco111) | [**릴리**](https://github.com/ahnlook) | [**시저**](https://github.com/caesar1030) | [**워터**](https://github.com/yesolyo) | [**다온**](https://github.com/saseungg) | [**아켄**](https://github.com/aken-you) | [**스눕**](https://github.com/realsnoopso) |
+
 
 <br />
 <br />
+
+
