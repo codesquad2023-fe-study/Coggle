@@ -13,8 +13,12 @@
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [**포코**](https://github.com/poco111) | [**릴리**](https://github.com/ahnlook) | [**시저**](https://github.com/caesar1030) | [**워터**](https://github.com/yesolyo) | [**다온**](https://github.com/saseungg) | [**아켄**](https://github.com/aken-you) | [**스눕**](https://github.com/realsnoopso) |
 
+## 1회차 🔥
 
-<br />
-<br />
-
+- [(트러블 슈팅)key of type of (icons)의 string 오류](https://dev-logbook.tistory.com/31)
+- [(트러블 슈팅)EventSourece에 header 담기](https://dev-logbook.tistory.com/32)
+- [(html/css)글자수 넘어가면 말줄임표/원하는 줄 수에 맞게 말줄임표](https://dev-logbook.tistory.com/36)
+- [나만의 동적 Portal 컴포넌트 만들기](https://pocoding.tistory.com/117)
+- [MSW 이해하고 쓰자!](https://velog.io/@saseungg/MSW-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%93%B0%EC%9E%90-11fd600l)
+- [Array.prototype.reduce 직접 구현해보기](https://velog.io/@kinsk2839/Array.prototype.reduce-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
