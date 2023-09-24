@@ -22,3 +22,11 @@
 - [MSW (Mock Service Worker)를 활용한 API Mocking](https://velog.io/@saseungg/MSW-Mock-Service-Worker%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-API-Mocking)
 - [Array.prototype.reduce 직접 구현해보기](https://velog.io/@kinsk2839/Array.prototype.reduce-%EC%A7%81%EC%A0%91-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
+
+## 2회차 🔥
+- [옵저버패턴 memory leak 해결하기](https://caesar1030.tistory.com/8)
+- [QUIC는 어떻게 Head-of-Line(HOL) Blocking를 피할 수 있을까?](https://github.com/ahnlook/TIL/blob/master/Blog/QUIC.md)
+- [컴포넌트 생명주기에 맞춰 Slide 애니메이션 적용하기](https://snoop.so/dialogSlideAnimation/)  
+- [실시간 통신 기술 차이점](https://dev-logbook.tistory.com/38)
+- [Context는 상태 관리 툴이 아니다](https://caesar1030.tistory.com/9)
+- [FileReader로 파일을 읽는 작업 중 다른 파일의 읽기 작업을 요청하면 어떻게 될까?](https://github.com/ahnlook/TIL/blob/master/Blog/%08FileReader.md) 
