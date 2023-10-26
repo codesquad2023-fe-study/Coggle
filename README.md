@@ -30,7 +30,7 @@
 - [Context는 상태 관리 툴이 아니다](https://caesar1030.tistory.com/9)
 - [FileReader로 파일을 읽는 작업 중 다른 파일의 읽기 작업을 요청하면 어떻게 될까?](https://github.com/ahnlook/TIL/blob/master/Blog/%08FileReader.md)
 - [데이터를 요청하는 동안 Suspense로 로딩 화면 구현하기](https://velog.io/@kinsk2839/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9A%94%EC%B2%AD%ED%95%98%EB%8A%94-%EB%8F%99%EC%95%88-Suspense%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EB%94%A9-%ED%99%94%EB%A9%B4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
-
+- [nvm으로 노드 버전관리 자동화하기](http://localhost:8000/tip/node-version/)  
 
 ## 3회차 🔥
 - [Facade 패턴](https://caesar1030.tistory.com/12)
